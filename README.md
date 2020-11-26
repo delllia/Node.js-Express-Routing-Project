@@ -1,4 +1,4 @@
-# NODE.js-Routing-Project
+# NODE.js-Express-Routing-Project
 
 ## Informal School of IT - Node.js(Express) Homework
 
